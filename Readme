@@ -1,3 +1,4 @@
+# About
 Bash Script to Fetch Logs from HTTP log file from the http server.
 
 The logs will be fetched as follows:-
@@ -12,8 +13,8 @@ HTTP_STATUS: 200
 USER_AGENT: "curl/7.68.0"
 ----------------------------------
 
-Command Syntax:- 
-# bash logscript.sh -f <logfile> -remoteip <x.x.x.x>
+# Command Syntax:- 
+ #bash logscript.sh -f <logfile> -remoteip <x.x.x.x>
 
 -f          --  log file
 -remoteip   -- IP of user who has accessed
