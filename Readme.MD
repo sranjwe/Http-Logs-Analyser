@@ -8,7 +8,7 @@ Bash Script to Fetch Logs from HTTP log file from the http server.
 
 `-remoteip`   -> `IP of user who has accessed`
 
-eg:- `# bash log_script.sh -f access.log -remoteip 192.168.29.20`
+eg:- `# bash log_script.sh -f access.log -remoteip 192.168.20.20`
 
 
 # SNAPSHOT
